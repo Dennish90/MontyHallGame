@@ -3,6 +3,7 @@
 A simulation of the classic probability puzzle known as the Monty Hall Problem, implemented with a graphical interface in Java.
 
 ![Screenshot](gui.png)
+
 *Screenshot from the game showing the interface and game flow.*
 
 ## Features
