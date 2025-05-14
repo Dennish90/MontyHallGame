@@ -33,10 +33,6 @@ The project includes a PDF report (in Swedish) discussing the Monty Hall problem
 - This project was completed as an optional A-level assignment in a programming course, 
 available only to students who passed the final exam with a high enough grade.
 - Uses only built-in Java libraries (Swing)
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
 ---
 
 # Monty Hall-spel (Java GUI)
@@ -70,6 +66,3 @@ Projektet innehåller en PDF-rapport som diskuterar Monty Hall-problemet och red
 - Detta projekt gjordes som en frivillig A-uppgift i en programmeringskurs. 
 Uppgiften var endast tillgänglig för studenter som klarade slutprovet med tillräckligt högt betyg.
 - Använder endast standardbibliotek (Swing)
-
-## Licens
-Detta projekt är licensierat under MIT License – se [LICENSE](LICENSE)-filen för detaljer.
