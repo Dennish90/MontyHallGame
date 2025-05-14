@@ -43,6 +43,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 En simulering av det klassiska sannolikhetsproblemet "Monty Hall", byggt i Java med grafiskt gränssnitt.
 
+![Screenshot](gui.png)
+
 ## Funktioner
 - Spelaren väljer en av tre dörrar
 - En av de resterande dörrarna avslöjas
