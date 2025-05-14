@@ -1,3 +1,5 @@
+[ENG](#monty-hall-game-java-gui) | [SV](#monty-hall-spel-java-gui)
+
 # Monty Hall Game (Java GUI)
 
 A simulation of the classic probability puzzle known as the Monty Hall Problem, implemented with a graphical interface in Java.
@@ -37,7 +39,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-# Monty Hall-spelet (Java GUI)
+# Monty Hall-spel (Java GUI)
 
 En simulering av det klassiska sannolikhetsproblemet "Monty Hall", byggt i Java med grafiskt gränssnitt.
 
